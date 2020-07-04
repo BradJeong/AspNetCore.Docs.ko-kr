@@ -240,7 +240,7 @@ Ctrl+F5 키를 눌러 앱을 실행합니다. 브라우저에서 `https://localh
 * **찾아보기** 탭을 선택한 다음 검색 상자에 **Microsoft.EntityFrameworkCore.SqlServer**를 입력합니다.
 * 왼쪽 창에서 **Microsoft.EntityFrameworkCore.SqlServer**를 선택합니다.
 * 오른쪽 창에서 **프로젝트** 확인란을 선택하고 **설치**를 선택합니다.
-* 위 지침에 따라 `Microsoft.EntityFrameworkCore.InMemory` NuGet 패키지를 추가합니다.
+* 위 지침에 따라 `Microsoft.EntityFrameworkCore`, `Microsoft.EntityFrameworkCore.InMemory` NuGet 패키지를 추가합니다.
 
 ![NuGet 패키지 관리자](first-web-api/_static/vs3NuGet.png)
 
